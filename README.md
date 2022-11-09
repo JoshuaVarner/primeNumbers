@@ -1,2 +1,2 @@
 # primeNumbers
-Calculate Prime Numbers
+Calculate Prime Numbers based on user input
